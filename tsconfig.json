@@ -1,0 +1,9 @@
+{
+  "extends": "@gplane/tsconfig",
+  "compilerOptions": {
+    "declaration": false,
+    "sourceMap": false,
+    "isolatedModules": false,
+    "types": ["typed-query-selector"]
+  }
+}

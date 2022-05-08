@@ -1,0 +1,18 @@
+{
+  "name": "netease-music-cover-rotation",
+  "version": "0.1.0",
+  "description": "Rotate cover for current music on NetEase Music.",
+  "author": "Pig Fang <g-plane@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "tsc -p . -w",
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "@gplane/tsconfig": "^5.0.0",
+    "prettier": "^2.6.2",
+    "typed-query-selector": "^2.6.1",
+    "typescript": "^4.6.4"
+  }
+}
